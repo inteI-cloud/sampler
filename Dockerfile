@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM ubuntu:20.04
 
 ENV Sampler=/usr/local/bin/sampler
 
